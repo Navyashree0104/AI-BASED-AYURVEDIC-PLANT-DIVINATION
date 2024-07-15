@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "428493617977",
+    "firebase_url": "https://myproject789-358df-default-rtdb.firebaseio.com",
+    "project_id": "myproject789-358df",
+    "storage_bucket": "myproject789-358df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428493617977:android:a42092a83ab7ea17ec46e8",
+        "android_client_info": {
+          "package_name": "com.example.ayur123"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlDb5q4-aCeC_jY2pj-SAtB6I_g7kge64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428493617977:android:a2f16667aeaa222eec46e8",
+        "android_client_info": {
+          "package_name": "com.example.myproject789"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlDb5q4-aCeC_jY2pj-SAtB6I_g7kge64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
