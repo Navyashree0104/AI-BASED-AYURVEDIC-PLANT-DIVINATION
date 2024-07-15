@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Ayur123"
+rootProject.name = "AyurSangathi1"
 include(":app")
  
